@@ -1,0 +1,7 @@
+Zadani hry je jednoducha 2D sandbox hra. 
+Hlavni postavou je bojovnik, ktereho hrac ovlada. Bojuje s neprateli, muze kacet stromy a pohybuje se na sousi i pod vodou. 
+Muze byt zranen pri boji s neprateli, pri dlouhem pobytu pod vodou a pri padu z velke vysky. Pri vycerpani vsech zivotu bojovnik umira a hra konci.
+Pohybuje s v krajine, zdolava skakanim kopce, pozoruje rust stromu, prekonava vodni toky. 
+Hrac si muze rozehranou hru ulozit a pozdeji znova spustit.
+Hrac si muze vytvorit vlastni mapu a pouzit ji.
+
